@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+**/build
+/app/release
+/captures
+.externalNativeBuild
+.cxx
+.kotlin
+local.properties
+app/src/main/java/es/kibarra/app/BrokerConfig.kt

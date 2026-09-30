@@ -1,0 +1,5 @@
+package es.kibarra.app
+
+// Copia este fichero a BrokerConfig.kt y pon la IP real de tu broker Mosquitto.
+const val BROKER_HOST = "192.168.1.21"
+const val BROKER_PORT = 1883
